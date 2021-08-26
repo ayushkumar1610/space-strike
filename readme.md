@@ -4,7 +4,7 @@
 
 ## Requirments
 
-- Pyhton 3
+- Python 3
 - pygame
 
 ## Instruction to install pygame
@@ -13,7 +13,7 @@
 - pip install pygame
 
 ## Screenshot of game
-[!space game]("Screenshot(1)")
+![screenshot](Screenshot%20(1).png)
 
 ## How to run ?
 
